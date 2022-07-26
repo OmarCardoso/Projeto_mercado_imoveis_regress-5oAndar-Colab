@@ -1,4 +1,4 @@
-# Projeto_mercado_imoveis_regress-5oAndar-# Projeto_mercado_imoveis_regressao_quintoandar
+# Projeto_mercado_imoveis_regress-5oAndar
 Precificação de imóveis, simulando Machine Learning para construção de um aplicação web para input de dados do imóvel e exibição do preço sugerido de vendas.
 ## Fases do Projeto <br>
 1 - Sobre o Projeto <br>
